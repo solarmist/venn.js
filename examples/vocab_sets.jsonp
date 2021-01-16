@@ -25,24 +25,5 @@ var sets = [
 	{ "sets": [0, 4], "size": 807 }, // HP 1
 	{ "sets": [0, 5], "size": 1155 }, // Star Trek
 	{ "sets": [0, 6], "size": 11 }, // NHK Article
-	{ "sets": [0, 7], "size": 32 }, // Story
-
-	// Core 1000 x
-	{ "sets": [1, 3], "size": 695 }, // Bookworm
-	{ "sets": [1, 4], "size": 645 }, // HP 1
-	{ "sets": [1, 5], "size": 1390 }, // Star Trek
-	{ "sets": [1, 6], "size": 26 }, // NHK Article
-	{ "sets": [1, 7], "size": 21 }, // Story
-
-	// Core 5000 x
-	{ "sets": [2, 3], "size": 2266 }, // Bookworm
-	{ "sets": [2, 4], "size": 1952 }, // HP 1
-	{ "sets": [2, 5], "size": 2337 }, // Star Trek
-	{ "sets": [2, 6], "size": 57 }, // NHK Article
-	{ "sets": [2, 7], "size": 50 }, // Story
-
-	{ "sets": [0, 1], "size": 384 }, // Genki x Core 1000
-	{ "sets": [0, 2], "size": 851 }, // Genki x Core 5000
-	{ "sets": [1, 2], "size": 847 }// Core 1000 x Core 5000
-
+	{ "sets": [0, 7], "size": 32 } // Story
 ];
